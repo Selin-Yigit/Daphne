@@ -1,5 +1,3 @@
-
-https://github.com/Selin-Yigit/Daphne/assets/92374049/87540477-3eba-45b3-80ed-35e1bb6c915d
 # Daphne
 [ENG]
 In this project, a social media platform for art has been developed using the firebase database together with the Flutter framework. It is aimed to develop an application that users can use effectively, share the art they perform with other users both visually and in the form of writing.
