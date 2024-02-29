@@ -12,7 +12,8 @@ Bu proje Necmettin Erbakan Üniversitesi Bitirme Projesi olarak geliştirilmişt
 [Daphne_GraduationProject.docx](https://github.com/Selin-Yigit/Daphne/files/14452619/Daphne_GraduationProject.docx)
 
 
-https://github.com/Selin-Yigit/Daphne/assets/92374049/f625c5de-09b5-48a5-a9d7-60b455e88979
+https://github.com/Selin-Yigit/Daphne/assets/92374049/63272b42-559c-4fc1-bcfe-b785f0be268c
+
 
 
 
